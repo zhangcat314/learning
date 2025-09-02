@@ -6,7 +6,4 @@ for i in range(3):
 	if i == 2:
 		print("I am 2")
 
-
-
-
-
+print("shart")
